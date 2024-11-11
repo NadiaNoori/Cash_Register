@@ -7,14 +7,14 @@
   
   body {
     color: aliceblue;
-    background-color: rgb(63, 24, 71);
+    background-color: rgb(235, 232, 232);
   }
   
   #container {
     width: 33%;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(154, 59, 174);
+    background-color:  rgb(71, 26, 80);
     text-align: center;
     margin-top: 10vh;
     padding: 20px;
@@ -23,6 +23,9 @@
   
   h2 {
     margin-bottom: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 27px;
+    padding: 10px;
   }
   
   input {
@@ -39,8 +42,9 @@
     cursor: pointer;
     padding: 8px;
     border-radius: 5px;
-    background-color: rgb(63, 24, 71);
+    background-color: rgb(255, 152, 18);
     color: white;
+    font-size: 14px;
   }
   
   #change-due,
